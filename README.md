@@ -6,7 +6,7 @@
 </a>
 <a href="https://discord.com/users/792984862550130728"><img alt="Discord" src="https://img.shields.io/badge/Thron%230001-7289DA?style=flat&logo=discord&logoColor=white"/>
 <h3>
-I know javascript,vue and react<br>
-You can contact me on discord.<br>
+Merhaba, ben Umut. Yazılım ile uğraşan bir öğrenciyim. Yaklaşık 2 yıl önce Discord botları geliştirerek başladığım yazılım yolculuğuna Front-end Developer olarak devam ediyorum.<br>
+Discord Üzerinden benimle iletişime geçebilirsiniz.<br>
 </h3>
 <br/>
