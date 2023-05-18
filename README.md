@@ -51,7 +51,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="(https://github-readme-stats.vercel.app/api?username=ThronDeveloper" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ThronDeveloper](https://github-readme-stats.vercel.app/api?username=ThronDeveloper&show_icons=true&theme=radical" align="center" /></div>  
 
 <br/>  
   
