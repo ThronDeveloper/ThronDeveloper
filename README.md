@@ -63,7 +63,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ThronDeveloper&&style=flat-square" align="center" />
+![](https://komarev.com/ghpvc/?username=ThronDeveloper&color=29cc7a)
 </div>  
   
 
