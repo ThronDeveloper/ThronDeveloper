@@ -43,7 +43,7 @@
 <img src=https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="https://instagram.com/threshhookk" target="_blank">
 <img src=https://img.shields.io/badge/instagram-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-<a href="https://instagram.com/threshhookk" target="_blank">
+<a href="https://open.spotify.com/user/shxzzcxp082r7eammisoxyg0g?si=cf4940488be64c62" target="_blank">
 <img src=https://img.shields.io/badge/spotify-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
