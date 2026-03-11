@@ -41,7 +41,7 @@
 <img src=https://img.shields.io/badge/github-111111.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="https://discord.com/users/792984862550130728" target="_blank">
 <img src=https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white alt=github style="margin-bottom: 5px;" />
-<a href="https://instagram.com/umutduzofficial" target="_blank">
+<a href="https://instagram.com/threshhookk" target="_blank">
 <img src=https://img.shields.io/badge/instagram-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
