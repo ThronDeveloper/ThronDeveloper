@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I am Umut, I have been dealing with software since 2020. Currently, I continue my software life as a front-end developer.</div>  
+### <div align="center">I am Umut, I have been dealing with software since 2020. Currently, I continue my software life as a Vibe Coder.</div>  
   
 
-- 🔭 I am currently developing a website for Lecrian Development.  
+- 🔭 I am currently developing a my Websmatic Project. 
   
 
 - 🌱 I am currently learning PhP and TypeScript.  
@@ -55,7 +55,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThronDeveloper&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThronDeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  ![](https://komarev.com/ghpvc/?username=ThronDeveloper&color=29cc7a)
+  ![](https://komarev.com/ghpvc/?username=ThronDeveloper&color=19164c)
 
 <br/>  
 
