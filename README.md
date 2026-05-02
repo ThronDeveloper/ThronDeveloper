@@ -5,7 +5,7 @@
 </div>
   
 
-### <div align="center"ThronDeveloper</div>  
+### ThronDeveloper</div>  
 
 ## Github Stats  
 ![](https://github-readme-stats.vercel.app/api?username=ThronDeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
